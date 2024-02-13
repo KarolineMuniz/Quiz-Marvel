@@ -109,6 +109,7 @@ input {
 
   flex-shrink: 0;
 }
+ 
 
 input:checked {
   border: 1px solid #A3E635;
