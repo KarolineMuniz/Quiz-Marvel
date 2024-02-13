@@ -91,6 +91,7 @@ const perguntas = [
     },
 ];
 
+
 const quiz = document.querySelector('#quiz')
 const template = document.querySelector('template')
 const corretas = new Set()
